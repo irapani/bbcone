@@ -1,0 +1,24 @@
+
+	h1{
+		color: white;
+		text-align: center;
+	}
+	p{
+		font-family: verdana;
+		font-size: 20px;
+	}
+	ul {
+		list-style-type: none;
+		margin:0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #333;		
+	}
+	li  a {
+		display: inline;
+		color: white;
+		float: left;
+		text-decoration: none;
+		padding: 14px 16px;
+		}
+	
